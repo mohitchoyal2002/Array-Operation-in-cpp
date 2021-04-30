@@ -1,8 +1,6 @@
 /*This is program for Array ADT,
-which explain opretion on array*/
-#include<iostream>
-#include<stdio.h>
-#include<stdlib.h>
+which explain operation on array*/
+#include<bits/stdc++.h>
 using namespace std;
 //creating a stucture
 struct array
